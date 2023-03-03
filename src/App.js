@@ -6,7 +6,7 @@ import Login from "./components/login";
 import Signup from "./components/signup";
 
 function App() {
-  let isConnected = false;
+  let isConnected = true;
 
   return (
     <Router>
